@@ -245,5 +245,10 @@ ro.semc.enable.fast_dormancy=true
 ro.com.google.locationfeatures=0
 ro.com.google.networklocation=0
 ro.knox.enhance.zygote.aslr=1
+ro.surface_flinger.protected_contents=true
+ro.com.google.cdb.spa1=bsxasm1
+fw.show_multiuserui=1
+fw.max_users=8
+ril.support.dynamic_imei=true
 # end of file
 
