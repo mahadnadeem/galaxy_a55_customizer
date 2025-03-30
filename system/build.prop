@@ -250,5 +250,13 @@ ro.com.google.cdb.spa1=bsxasm1
 fw.show_multiuserui=1
 fw.max_users=8
 ril.support.dynamic_imei=true
+debug.sf.hw=0
+debug.egl.hw=0
+debug.enable.sglscale=1
+debug.sf.enablehwcvds=1
+debug.gralloc.enablefbubwc=1
+debug.sf.latch_unsignaled=1
+debug.sf.recomputecrop=0
+dev.pm.dyn_samplingrate=1
 # end of file
 
