@@ -1,10 +1,10 @@
-# Samsung OneUI 6.1 Customizer
+# Samsung OneUI 7 Customizer
 
-### This is a little Magisk Module to Modify your current OneUI6.1 on Galaxy A55
+### This is a little Magisk Module to Modify your current OneUI7 on Galaxy A55
 
 ## Features of this MOD
 ```
-> OneUI 6.1.1 Launcher
+> OneUI 7 Launcher
 > HighEnd Animations (launcher e.g)
 > Showing more Battery Information & Battery Cycles
 > Basic Native AI Features like Samsung Keyboard AI Gramatic and Call AI Translate e.g

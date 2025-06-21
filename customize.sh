@@ -3,7 +3,7 @@
 SKIPUNZIP=0
 
 ui_print " **************************"
-ui_print " A55 OneUI6.1 Customizer & Debloater"
+ui_print " A55 OneUI 7 Customizer & Debloater"
 ui_print " **************************"
 sleep 0.7
 
@@ -52,8 +52,6 @@ REPLACE="
 /system/priv-app/FBInstaller_NS
 /system/priv-app/FBServices
 /system/priv-app/OneDrive_Samsung_v3
-/system/priv-app/YourPhone_P1_5
-/system/priv-app/LinkToWindowsService
 /system/priv-app/Routines
 /system/priv-app/Bixby
 /system/priv-app/SettingsBixby
@@ -61,11 +59,7 @@ REPLACE="
 /system/priv-app/SamsungMagnifier3
 
 /system/product/priv-app/FamilyLinkParentalControls
-/system/product/app/GoogleLocationHistory
-/system/product/app/Gmail2
-/system/product/app/YouTube
 /system/product/app/DuoStub
-/system/product/app/Maps
 
 /system/system_ext/priv-app/GoogleFeedback
 
